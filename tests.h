@@ -13,7 +13,6 @@ void rootDeletion ()
     tree1.insert(35,4);
     tree1.insert(18, 4);
     tree1.insert(14, 4);
-    tree1.insert(14, 4);
     tree1.insert(3, 4);
     tree1.insert(2, 4);
     cout << tree1;
